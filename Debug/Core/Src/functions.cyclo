@@ -1,0 +1,8 @@
+../Core/Src/functions.c:15:6:veriOkuma	8
+../Core/Src/functions.c:51:6:hizHesaplama	2
+../Core/Src/functions.c:61:7:irtifaHesaplama	1
+../Core/Src/functions.c:66:7:ivmeHesapla	1
+../Core/Src/functions.c:77:7:ortFiltreleme	1
+../Core/Src/functions.c:82:10:YRT_CRCCalculator	4
+../Core/Src/functions.c:129:6:CAN_paketOlustur	1
+../Core/Src/functions.c:143:6:CAN_telemetriGonder	2

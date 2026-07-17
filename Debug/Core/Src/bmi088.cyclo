@@ -1,0 +1,11 @@
+../Core/Src/bmi088.c:11:16:combine_bytes	1
+../Core/Src/bmi088.c:15:8:bmi088_init	13
+../Core/Src/bmi088.c:76:8:bmi088_soft_reset	4
+../Core/Src/bmi088.c:91:8:bmi088_read_accel	6
+../Core/Src/bmi088.c:107:8:bmi088_read_gyro	6
+../Core/Src/bmi088.c:123:8:bmi088_read_temp	4
+../Core/Src/bmi088.c:137:8:bmi088_read_all	12
+../Core/Src/bmi088.c:158:8:bmi088_set_accel_odr	4
+../Core/Src/bmi088.c:173:8:bmi088_set_gyro_odr	4
+../Core/Src/bmi088.c:188:8:bmi088_set_accel_range	3
+../Core/Src/bmi088.c:195:8:bmi088_set_gyro_range	3

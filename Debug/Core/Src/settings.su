@@ -1,0 +1,6 @@
+../Core/Src/settings.c:8:6:CAN_set	48	static
+../Core/Src/settings.c:30:6:CAN_sendData	56	static
+../Core/Src/settings.c:48:6:HAL_CAN_RxFifo0MsgPendingCallback	56	static
+../Core/Src/settings.c:57:6:HAL_CAN_TxMailbox0CompleteCallback	16	static
+../Core/Src/settings.c:58:6:HAL_CAN_TxMailbox1CompleteCallback	16	static
+../Core/Src/settings.c:59:6:HAL_CAN_TxMailbox2CompleteCallback	16	static
